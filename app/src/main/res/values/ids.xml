@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="linear_item">false</item>
+    <item type="id" name="linearLayout1">false</item>
+    <item type="id" name="progress">false</item>
+    <item type="id" name="progressBar">false</item>
+    <item type="id" name="progressText">false</item>
+    <item type="id" name="frameLayout"/>
+
+
+</resources>
